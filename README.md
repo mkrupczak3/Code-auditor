@@ -1,6 +1,6 @@
 # Code Auditor
 
-I have a nice E-ink e-reader that I would like to use to read through code bases and take notes on, but it is only capable of paging through simple txt and pdf documents.
+I have a nice E-ink e-reader that I would like to use to read through code and take hand-written notes, but it is only capable of paging through simple txt and pdf documents.
 
 So, I wrote this bash script to generate large txt and pdf files to make it easy to read through code using resources from here:
 https://unix.stackexchange.com/questions/46276/finding-all-non-binary-files/46290#46290
